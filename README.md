@@ -6,8 +6,8 @@
     <!--<img src="https://badges.pufler.dev/years/milaan9" alt="Active_Years"/>-->  
     <!--<a href="https://github.com/milaan9/milaan9" target="_blank"><img src="https://badges.pufler.dev/commits/monthly/milaan9" alt="commits"/>--> 
     <a href="https://github.com/KishoreRaghupathy/KishoreRaghupathy/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/KishoreRaghupathy/KishoreRaghupathy" /></a>
-    <a href="https://github.com/milaan9?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/milaan9?color=4C1&logo=github"></a>
-    <a href="https://github.com/milaan9/milaan9" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/milaan9/milaan9?label=Profile%20update&style=fflat-square"></a>
+    <a href="https://github.com/KishoreRaghupathy?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/KishoreRaghupathy?color=4C1&logo=github"></a>
+    <a href="https://github.com/KishoreRaghupathy/KishoreRaghupathy" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/KishoreRaghupathy/KishoreRaghupathy?label=Profile%20update&style=fflat-square"></a>
     <!--<a href="https://github.com/milaan9" target="_blank"><img alt="milaan9" src="https://badges.pufler.dev/visits/milaan9/milaan9?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>-->
     <!--<img src="https://badges.pufler.dev/gists/milaan9" alt="milaan9"/>-->
     <!--<img src="https://readme-jokes.vercel.app/api" alt="milaan9"/>-->
